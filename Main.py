@@ -48,4 +48,3 @@ try:
         print(round(neuron.reaction(xx), 2))
 except Exception:
     print("Нейрон умер от страха ! За что вы так с ним ?")
-    
